@@ -1,5 +1,5 @@
 #the game shall require the kids to keep guessing the name of their county
-#we can also ensure that the kids will only win after winning a couple number of times
+#we can also ensure that the kids will only win after trying a couple number of times without losing
 secret_word = "MAKUENI"
 guess = ""
 #set the number of guessing times
